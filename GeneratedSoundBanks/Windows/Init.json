@@ -1,0 +1,25 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "C:\\Users\\Propriétaire\\Desktop\\Projet_Aliénor\\EyeTrack_Wwise\\",
+   "SourceFilesRoot": "C:\\Users\\Propriétaire\\Desktop\\Projet_Aliénor\\EyeTrack_Wwise\\.cache\\Windows\\",
+   "SoundBanksRoot": "C:\\Users\\Propriétaire\\Desktop\\Projet_Aliénor\\EyeTrack_Wwise\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "C:\\Users\\Propriétaire\\Desktop\\Projet_Aliénor\\EyeTrack_Wwise\\GeneratedSoundBanks\\Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
+    "Language": "SFX",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}
